@@ -19,7 +19,7 @@ function main(){
         winner = " you "
         break
         case "rr": 
-        winner = " no one "
+        winner = "no one"
         break
         case "pp": 
         winner = "no one"
